@@ -1,0 +1,1 @@
+ALTER TABLE `owned_vehicles` ADD COLUMN `flame` int(11) DEFAULT NULL;
